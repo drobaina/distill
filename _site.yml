@@ -2,7 +2,7 @@ name: "r_distill"
 title: "Primeiros Passos - Distill "
 description: |
   Primeiros Passos - Distill
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
