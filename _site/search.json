@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-10T23:14:34-03:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-10T23:14:35-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Primeiros Passos - Distill ",
+      "description": "Primeiros passos...\n",
+      "author": [],
+      "contents": "\nPor falta de ideia\n\n\n\n\n",
+      "last_modified": "2021-05-10T23:14:36-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

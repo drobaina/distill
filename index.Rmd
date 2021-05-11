@@ -1,0 +1,17 @@
+---
+title: "Primeiros Passos - Distill "
+description: |
+  Primeiros passos...
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+
+## Por falta de ideia
+
+![](testeseu.jpg){width=150}

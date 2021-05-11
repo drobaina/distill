@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-05-10-testes-em-distill/",
+    "title": "testes em distill",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Professor Robaina",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-10",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": "posts/2021-05-10-testes-em-distill/testecomfort.jpg",
+    "last_modified": "2021-05-10T23:10:17-03:00",
+    "input_file": {}
+  }
+]

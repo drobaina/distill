@@ -1,0 +1,16 @@
+name: "r_distill"
+title: "Primeiros Passos - Distill "
+description: |
+  Primeiros Passos - Distill
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Blog"
+      href: blog.html
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/diogo-robaina-784954162
+output: distill::distill_article
