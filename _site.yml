@@ -9,7 +9,7 @@ navbar:
       href: index.html
     - text: "Sobre"
       href: about.html
-    - text: "Blog"
+    - text: "blog"
       href: blog.html
     - icon: fa fa-linkedin
       href: https://www.linkedin.com/in/diogo-robaina-784954162
